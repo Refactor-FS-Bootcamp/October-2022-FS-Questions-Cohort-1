@@ -1,6 +1,11 @@
 # Steps to Submit your solution :
 
 - Clone (or pull) the repositary in your local pc.
+```
+git clone https://github.com/Refactor-FS-Bootcamp/October-2022-FS-Questions-Cohort-1.git
+git pull
+```
+
 - For every new assignment you will create a new branch, e.g for Assignment Project 1 (HTML), you will create a branch called assignment-1 (no spaces)
 ```
 To create a new branch, use the below code :
